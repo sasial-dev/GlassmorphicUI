@@ -1,6 +1,9 @@
 {
   "name": "GlassmorphicUI",
   "tree": {
-    "$path": "src"
+    "$path": "out",
+    "Packages": {
+      "$path": "Packages"
+    }
   }
 }

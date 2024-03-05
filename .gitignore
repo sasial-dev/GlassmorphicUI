@@ -3,9 +3,15 @@
 /*.rbxlx
 /*.rbxm
 /*.rbxmx
+sourcemap.json
 
-# Wally managed packages
+# Packages
 Packages
+
+# Roblox-ts
+node_modules
+out
+include
 
 # Roblox Studio lock files
 /*.rbxlx.lock
